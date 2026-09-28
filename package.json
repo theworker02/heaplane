@@ -1,0 +1,29 @@
+{
+  "name": "@theworker02/heaplane",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Heap numeric lane values, ranges, and human-readable units.",
+  "bin": {
+    "heaplane": "src/cli.js"
+  },
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "node --test"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=18"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/theworker02/heaplane.git"
+  },
+  "homepage": "https://theworker02.github.io/heaplane/",
+  "keywords": [
+    "heap",
+    "lane",
+    "number",
+    "cli",
+    "toolkit"
+  ]
+}
